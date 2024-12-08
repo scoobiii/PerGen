@@ -1,0 +1,3 @@
+# Dependências do projeto
+
+# TODO: Implementar o conteúdo deste arquivo.
